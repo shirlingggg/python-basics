@@ -3,7 +3,7 @@
 x = max(67, 89, 90, 23, 45, 55)
 print("The maximum number is", x)
 
-y=min(67, 89, 90, 23, 45, 55)
+y= min(67, 89, 90, 23, 45, 55)
 print("The minimum number is", x)
 
 z=pow(2, 3)
@@ -33,6 +33,7 @@ def add(num1, num2):
 
 add(5, 10)
 add(20, 10)
+add(4, 8)
 
 print()
 
